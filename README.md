@@ -21,7 +21,7 @@ Em relação a minha formação, eu sou aluno de enganharia metalúrgica pela Un
 ## Projetos:
 Alguns dos meus projetos já criados:
 
-* **DashBoard Operacional - Power BI:** https://bityli.com/XVeXGi
+* **DashBoard Operacional - Power BI:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQwOWE3YWMtMzgxMy00MWM2LThkNjAtYTgxOTU3YzJlNGVmIiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9&pageName=ReportSection)
 * **DashBoard Orçamentário - Power Bi:** https://bityli.com/5dPva
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
