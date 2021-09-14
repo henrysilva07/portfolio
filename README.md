@@ -14,15 +14,15 @@ Em relação a minha formação, eu sou aluno de enganharia metalúrgica pela Un
 **Background in:** Python, Machine Learning, Power Bi e Pentaho.
 
 **Links:**
-# 
+
 * [LinkedIn](https://www.linkedin.com/in/henry-silva-41a048178/)
-# [Medium](https://www.medium.com)
+
 
 ## Projetos:
 Alguns dos meus projetos já criados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* **DashBoard Operacional - Power BI:** https://bityli.com/XVeXGi
+* **DashBoard Orçamentário - Power Bi:** https://bityli.com/5dPva
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
