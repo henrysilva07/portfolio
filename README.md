@@ -14,10 +14,9 @@ Em relação a minha formação, eu sou aluno de enganharia metalúrgica pela Un
 **Background in:** Python, Machine Learning, Power Bi e Pentaho.
 
 **Links:**
-# [Blog](http://sigmoidal.ai)
+# 
 * [LinkedIn](https://www.linkedin.com/in/henry-silva-41a048178/)
 # [Medium](https://www.medium.com)
-
 
 ## Projetos:
 Alguns dos meus projetos já criados:
