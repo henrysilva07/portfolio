@@ -24,7 +24,7 @@ Alguns dos meus projetos já criados:
 * **DashBoard Orçamentário - Power BI:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQwOWE3YWMtMzgxMy00MWM2LThkNjAtYTgxOTU3YzJlNGVmIiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9&pageName=ReportSection)
 * **DashBoard Operacional - Power Bi:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjhmMWY5M2UtOGQ0Ny00NmY4LTllZjgtMmM3NTQ3OWRkOWM5IiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9&pageName=ReportSection)
 * **Data Science - Determinando os gastos com produtos de limpeza de um supermercado** [Notebook](https://github.com/henrysilva07/analise_atacado/blob/main/analise_atacado.ipynb)
-
+* **Business Intelligence: análise exploratória de dados** [Notebook](https://github.com/henrysilva07/An-lise-Explorat-ria--Varejo/blob/main/an%C3%A1lise_explorat%C3%B3ria.ipynb)
 
 
 
