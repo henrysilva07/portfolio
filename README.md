@@ -5,7 +5,7 @@
 </p>
 
 # Henry Silva
-<sub>*Estagiário de análise de dados* - Pague Menos</sub>
+<sub>*Analista de dados Jr.* - Knewin</sub>
 
 Experiência em desenvolvimento de Business Intelligence , partindo desde a ETL , com python ou Pentaho, até plataforma de dataviz como o Power Bi. Além disso, possuo experiência em manipulação e tratamento de grandes volumes de dados a fim de consolidar os dados existente, seja fazendo ETL de backups ou gerando base para análises exploratórias. Por fim, atualmente, estou desenvolvendo processos de machine learning a fim de solucionar problemas pertinentes. 
 
