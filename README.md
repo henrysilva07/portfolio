@@ -5,17 +5,21 @@
 </p>
 
 # Henry Silva
-#### *Analista de dados Jr.* - Knewin 
+#### Analista de dados Jr. - Knewin 
 
-Experiência em desenvolvimento de Business Intelligence , partindo desde a ETL , com python ou Pentaho, até plataforma de dataviz como o Power Bi. Além disso, possuo experiência em manipulação e tratamento de grandes volumes de dados a fim de consolidar os dados existente, seja fazendo ETL de backups ou gerando base para análises exploratórias. Por fim, atualmente, estou desenvolvendo processos de machine learning a fim de solucionar problemas pertinentes. 
+Experiência em desenvolvimento de Business Intelligence , partindo desde a ETL , com python , até plataforma de dataviz como o Power Bi. Além disso, possuo experiência em manipulação e tratamento de grandes volumes de dados a fim de consolidar os dados existente, seja fazendo ETL de backups ou gerando base para análises exploratórias. Por fim, atualmente, estou desenvolvendo processos de machine learning a fim de solucionar problemas pertinentes do negócio. 
 
-Em relação a minha formação, eu sou aluno de enganharia metalúrgica pela Universidade Federal do Ceará , com prazo de conclusão para 2021.2. 
+Em relação a minha formação, eu sou engenhreiro metalúrgico pela Universidade Federal do Ceará, mas desde 2020 estou atuando na área de tecnologia, com o foco na análise de dados. 
 
-**Background in:** Python, Machine Learning, Power Bi e Pentaho.
+**Background in:** Python, Machine Learning, Power Bi e SQL.
 
-**Links:**
+#### Contatos
 
-* [LinkedIn](https://www.linkedin.com/in/henry-silva-41a048178/)
+<div> 
+ <a href="https://instagram.com/henrysilva07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henry131307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henry-silva-41a048178/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 ## Projetos:
